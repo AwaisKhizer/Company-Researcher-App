@@ -1,0 +1,6 @@
+streamlit
+crewai
+openai
+firecrawl
+python-dotenv
+requests
